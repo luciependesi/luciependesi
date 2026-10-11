@@ -29,7 +29,6 @@ Currently interested in:
 - MQTT
 - WebSockets
 - Tableau
-- Git & GitHub
 - Machine Learning
 - IoT
 - Digital forensic
