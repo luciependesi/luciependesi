@@ -32,6 +32,9 @@ Currently interested in:
 - Git & GitHub
 - Machine Learning
 - IoT
+- Digital forensic
+- Network Security
+- Kali linux
 
 ## Featured Projects
 
